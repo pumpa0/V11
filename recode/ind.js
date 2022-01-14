@@ -3,23 +3,13 @@ return`*HAI KAK MAU BENERAN DONASI ATAU TIDAK KAK*
 *SEMOGA TIDAK DILIHAT DOANG*
 
 *PAYMENT BOT*
-DANA: (0857-8900-4732)
-OVO: (0822-7991-5237)
-PULSA: (0822-7991-5237)
+PULSA: (0857-3185-5426)
+GOPAY: (0858-0714-9213)
 
-*TERIMA KASIH KAK*
-*LOVE YOU😋*`
+*TERIMA KASIH KAK*`
 }
 exports.menu = (prefix, simbol) => { 
 return`=====[ 𝗟𝗶𝘀𝘁 𝗠𝗲𝗻𝘂 ]=====
-
-❏ 𝙊𝙩𝙝𝙚𝙧𝙨
-${simbol} ${prefix}infobot
-${simbol} ${prefix}cekprem
-${simbol} ${prefix}scbot
-${simbol} ${prefix}owner
-${simbol} ${prefix}donasi
-${simbol} ${prefix}request <fitur>
 
 ❏ 𝙊𝙬𝙣𝙚𝙧
 ${simbol} ${prefix}self
